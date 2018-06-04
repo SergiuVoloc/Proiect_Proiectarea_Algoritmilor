@@ -1,6 +1,5 @@
 
-//https://www.youtube.com/watch?v=PPgGJvgv2Ag
-//de uitat si de scris in lateX
+
 #include <stdio.h>
 #include <stdlib.h>
 
